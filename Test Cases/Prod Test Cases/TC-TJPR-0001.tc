@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Page navigation</description>
+   <name>TC-TJPR-0001</name>
+   <tag>t1</tag>
+   <comment></comment>
+   <testCaseGuid>b06533da-49c5-439b-9a45-45c4d7fa38dc</testCaseGuid>
+</TestCaseEntity>

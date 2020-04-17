@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Veriffy contact us link</description>
+   <name>TC-TJ-00008</name>
+   <tag>tj8</tag>
+   <comment></comment>
+   <testCaseGuid>18575ef2-c009-4dbc-ab9e-f8bdd3fe16d5</testCaseGuid>
+</TestCaseEntity>

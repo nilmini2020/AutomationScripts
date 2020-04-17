@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify loading of index page</description>
+   <name>TC-TJ-00002</name>
+   <tag>tj3</tag>
+   <comment></comment>
+   <testCaseGuid>24ff5a78-6b27-4081-be5b-9d074d430a61</testCaseGuid>
+</TestCaseEntity>

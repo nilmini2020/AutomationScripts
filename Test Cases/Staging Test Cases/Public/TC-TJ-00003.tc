@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Post Your vacancy link</description>
+   <name>TC-TJ-00003</name>
+   <tag>tj2</tag>
+   <comment></comment>
+   <testCaseGuid>cb4acf8b-63d7-4e08-b10e-fc5562e5736d</testCaseGuid>
+</TestCaseEntity>

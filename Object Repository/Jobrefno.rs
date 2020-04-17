@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>jobrefno</description>
+   <name>Jobrefno</name>
+   <tag></tag>
+   <elementGuidId>954b4506-d03b-401e-83af-0613fb214eb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;frmJobSpec&quot;]/table/tbody/tr[2]/td[2]/strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;frmJobSpec&quot;]/table/tbody/tr[2]/td[2]/strong</value>
+   </webElementProperties>
+</WebElementEntity>

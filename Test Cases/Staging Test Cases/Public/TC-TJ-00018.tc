@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify advance seach (gov...)</description>
+   <name>TC-TJ-00018</name>
+   <tag>tj18</tag>
+   <comment></comment>
+   <testCaseGuid>c7efde10-5ec6-4ed1-a46c-4c8b40c1d49c</testCaseGuid>
+</TestCaseEntity>

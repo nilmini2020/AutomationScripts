@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify search tips</description>
+   <name>TC-TJ-00012</name>
+   <tag>tj12</tag>
+   <comment></comment>
+   <testCaseGuid>a54818e1-1ed9-40a5-9dd4-13015dcf6de9</testCaseGuid>
+</TestCaseEntity>

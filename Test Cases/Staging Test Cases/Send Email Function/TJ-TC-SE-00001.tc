@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Send to a friend</description>
+   <name>TJ-TC-SE-00001</name>
+   <tag>TJTC1</tag>
+   <comment></comment>
+   <testCaseGuid>ba35b8cc-5cc2-4430-9338-c32db2c03be4</testCaseGuid>
+</TestCaseEntity>

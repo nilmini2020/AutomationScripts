@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Media Room link</description>
+   <name>TC-TJ-00005</name>
+   <tag>tj5</tag>
+   <comment></comment>
+   <testCaseGuid>823f9f7f-5b98-4314-9e72-231287fe5847</testCaseGuid>
+</TestCaseEntity>

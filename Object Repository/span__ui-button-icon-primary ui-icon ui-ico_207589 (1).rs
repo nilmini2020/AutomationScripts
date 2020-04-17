@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__ui-button-icon-primary ui-icon ui-ico_207589 (1)</name>
+   <tag></tag>
+   <elementGuidId>4cb5bd6d-eb6f-4908-96cc-1e0c10079911</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='country-wrap']/span/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon-primary ui-icon ui-icon-triangle-1-s</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;country-wrap&quot;)/span[@class=&quot;custom-combobox&quot;]/a[@class=&quot;ui-button ui-widget ui-state-default ui-button-icon-only custom-combobox-toggle ui-corner-right ui-state-hover ui-state-focus&quot;]/span[@class=&quot;ui-button-icon-primary ui-icon ui-icon-triangle-1-s&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='country-wrap']/span/a/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a/span</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Partners link</description>
+   <name>TC-TJ-00006</name>
+   <tag>tj6</tag>
+   <comment></comment>
+   <testCaseGuid>ec5313ff-08bf-4895-aaaf-24edbfac8ad0</testCaseGuid>
+</TestCaseEntity>

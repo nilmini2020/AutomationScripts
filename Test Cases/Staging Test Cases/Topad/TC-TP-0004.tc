@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify add new vacancy</description>
+   <name>TC-TP-0004</name>
+   <tag>tp4</tag>
+   <comment></comment>
+   <testCaseGuid>26797b67-702a-4cc6-8276-8801cc89311e</testCaseGuid>
+</TestCaseEntity>

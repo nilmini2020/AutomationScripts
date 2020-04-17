@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-TP-0001</name>
+   <tag></tag>
+   <comment>Then inserted successfully
+Then updated successfully</comment>
+   <testCaseGuid>8792853a-e579-404a-b4c9-56750ce5625c</testCaseGuid>
+</TestCaseEntity>

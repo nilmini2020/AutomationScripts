@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Send to a Firend</description>
+   <name>TC-TJPR-SE-001</name>
+   <tag>Se1</tag>
+   <comment></comment>
+   <testCaseGuid>cb0176c0-85fb-4ba5-affc-d75aaa1162dc</testCaseGuid>
+</TestCaseEntity>
