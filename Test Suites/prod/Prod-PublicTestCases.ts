@@ -14,12 +14,12 @@
       <guid>45c3ea78-98c3-4cfc-bd3b-519073a32bcd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/prod_test_cases/TC-TJPR-0001</testCaseId>
+      <testCaseId>Test Cases/prod_testing/TC-TJPR-0001</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>6db9fd09-47f6-4a0f-8014-a768e0df1cbb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/prod_test_cases/TC-TJPR-0003</testCaseId>
+      <testCaseId>Test Cases/prod_testing/TC-TJPR-0003</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
