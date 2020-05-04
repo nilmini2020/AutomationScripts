@@ -1,12 +1,10 @@
-/*
+ /*
  * Copyright genesiis.com
  * This is test case for Verify the Navigation of home url
  * Modification History:
  * Date         Version     Modified By     Description
  * 2020-02-10   1.0         Nilmini Ariyawansa            Initial creation
- */
-
-import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+ */ import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
@@ -26,7 +24,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('localhost:8080')
+WebUI.navigateToUrl('http://123.231.114.194:8285/')
 
 WebUI.closeBrowser()
 

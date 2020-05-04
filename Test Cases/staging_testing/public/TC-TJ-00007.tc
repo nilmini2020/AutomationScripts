@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Verify LMI link</description>
-   <name>TC-TJ-00007</name>
-   <tag>tj7</tag>
-   <comment></comment>
-   <testCaseGuid>dbf4846d-d900-474c-bfbb-ee83fc56d5c9</testCaseGuid>
-</TestCaseEntity>

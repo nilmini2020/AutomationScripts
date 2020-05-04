@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify when user click on the login button current window closed and should redirect to the http://www.topjobs.lk/applicant/login.jsp page</description>
+   <name>SDB-TC-154</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef9c1192-24ad-424e-a71c-04e9ecb50334</testCaseGuid>
+</TestCaseEntity>

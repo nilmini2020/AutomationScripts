@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>add new schema</description>
+   <name>SDB-TC-209</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15e8415b-964b-4a2b-a788-a4a058b0ecd2</testCaseGuid>
+</TestCaseEntity>

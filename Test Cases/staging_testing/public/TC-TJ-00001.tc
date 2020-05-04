@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Verify the Navigation of 100.100.100.199 url</description>
-   <name>TC-TJ-00001</name>
-   <tag>tj1</tag>
-   <comment></comment>
-   <testCaseGuid>d328ac0f-e328-4e69-bd22-e4479705f1e8</testCaseGuid>
-</TestCaseEntity>

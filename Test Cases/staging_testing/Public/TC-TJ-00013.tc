@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify visit out facebook</description>
+   <name>TC-TJ-00013</name>
+   <tag>tj13</tag>
+   <comment></comment>
+   <testCaseGuid>be44c5ba-5e95-4e42-a004-5601edfd4174</testCaseGuid>
+</TestCaseEntity>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Verify Job apply Panel</description>
-   <name>TC-TJ-00021</name>
-   <tag>tj21</tag>
-   <comment></comment>
-   <testCaseGuid>0a2c6c67-f00b-45fb-a077-67effb9dca67</testCaseGuid>
-</TestCaseEntity>

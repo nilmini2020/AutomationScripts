@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Need to be verify if appealing text display in text-box for a new user or existing user(currently not logged) open a post and click on apply via email function</description>
+   <name>SDB-TC-151</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b1046a6-f4a0-434d-8667-5ba6c8a5f00b</testCaseGuid>
+</TestCaseEntity>

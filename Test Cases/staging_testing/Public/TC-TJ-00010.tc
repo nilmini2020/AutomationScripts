@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify cafe link</description>
+   <name>TC-TJ-00010</name>
+   <tag>tj10</tag>
+   <comment></comment>
+   <testCaseGuid>d19b6e7a-344e-484f-843e-fe12769a097c</testCaseGuid>
+</TestCaseEntity>

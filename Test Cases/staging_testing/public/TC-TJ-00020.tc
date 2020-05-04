@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>verify Job seeker login</description>
-   <name>TC-TJ-00020</name>
-   <tag>tj20</tag>
-   <comment></comment>
-   <testCaseGuid>5ec6fca2-4699-4a58-b8d0-a6a5258061f7</testCaseGuid>
-</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify page footer link</description>
+   <name>TC-TJ-00019</name>
+   <tag>tj19</tag>
+   <comment></comment>
+   <testCaseGuid>df4d6723-99e6-46dc-8a20-bddcdb37fb17</testCaseGuid>
+</TestCaseEntity>

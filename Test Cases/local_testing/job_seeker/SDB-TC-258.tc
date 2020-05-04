@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if any kind of progress display when upload and sending an applicant CV
+
+Verify display message if the mail is sent successfully</description>
+   <name>SDB-TC-258</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2bfca196-c69e-40fd-8471-f4c36901302d</testCaseGuid>
+</TestCaseEntity>

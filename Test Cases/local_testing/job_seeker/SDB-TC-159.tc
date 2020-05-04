@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify when user perform apply via email function  a checkbox should be displayed as I want to receive a copy of the application and by default checkbox cannot be display as checked.</description>
+   <name>SDB-TC-159</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c888dfbe-daef-4d46-aabd-52a195e4fcce</testCaseGuid>
+</TestCaseEntity>

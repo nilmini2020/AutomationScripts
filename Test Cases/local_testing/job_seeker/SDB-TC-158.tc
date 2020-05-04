@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify when a logged applicant perform apply via email CV upload size mentioned text should be Max size: 2MB and can be upload a 2MB size file</description>
+   <name>SDB-TC-158</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b0899bf-d559-4f91-a2ac-8b6a985c97b6</testCaseGuid>
+</TestCaseEntity>

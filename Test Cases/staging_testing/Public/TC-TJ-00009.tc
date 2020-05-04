@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify rss link</description>
+   <name>TC-TJ-00009</name>
+   <tag>tj9</tag>
+   <comment></comment>
+   <testCaseGuid>68c78420-dde9-4d69-84c1-98559109ed91</testCaseGuid>
+</TestCaseEntity>

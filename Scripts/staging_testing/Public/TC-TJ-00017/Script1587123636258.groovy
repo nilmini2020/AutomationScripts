@@ -18,7 +18,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://100.100.100.199/index.jsp')
+WebUI.navigateToUrl('http://123.231.114.194:8285/index.jsp')
 
 WebUI.click(findTestObject('Object Repository/div_IT-SwareDBQAWebGraphicsGIS             _3e43c8'))
 

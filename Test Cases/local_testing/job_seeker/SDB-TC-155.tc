@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify after logged in by apply via function link should be there to connect the applicant with the last post that she/he viewed.</description>
+   <name>SDB-TC-155</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec6d0538-c064-49d2-acfb-3c79bcb41cb3</testCaseGuid>
+</TestCaseEntity>

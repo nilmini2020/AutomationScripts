@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Top Employers link</description>
+   <name>TC-TJ-00004</name>
+   <tag>tj4</tag>
+   <comment></comment>
+   <testCaseGuid>c0a54b10-84e4-4437-9e2e-84c2a5edaf00</testCaseGuid>
+</TestCaseEntity>

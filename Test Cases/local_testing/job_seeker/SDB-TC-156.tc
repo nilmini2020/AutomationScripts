@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify after signup by apply via function link should be there to connect the applicant with the initial AVE vacancy window.</description>
+   <name>SDB-TC-156</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c10d7709-33c9-4fbc-9a46-4879d6799c8b</testCaseGuid>
+</TestCaseEntity>

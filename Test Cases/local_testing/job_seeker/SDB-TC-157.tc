@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If a logged applicant perform the apply via function then appealing text,signup,login text box should be hidden.</description>
+   <name>SDB-TC-157</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea64140a-1171-4cc2-8603-9da09e7f5cd7</testCaseGuid>
+</TestCaseEntity>

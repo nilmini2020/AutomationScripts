@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Super Admin : Verify Add banners</description>
+   <name>SDB-TC-xx</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1267ab6d-7a9a-47e5-a168-5404c8419378</testCaseGuid>
+</TestCaseEntity>

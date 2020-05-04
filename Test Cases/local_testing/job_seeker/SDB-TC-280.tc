@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When a job seeker click on apply now feature in a particular vacancy automatically redirect to login page. In that moment need to be verified validation exist to check if the user proceed ahead by entering valid user name and password. 
+
+Need to be test by entering
+
+
+invalid user name only or
+
+
+valid user name only or
+
+
+invalid password only or
+
+
+valid password only or
+
+
+both invalid user name and invalid password  
+
+
+to check validation exist to prevent user entering to the site.</description>
+   <name>SDB-TC-280</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>415286cc-7a4a-45b5-96a7-1ec92e3af66a</testCaseGuid>
+</TestCaseEntity>

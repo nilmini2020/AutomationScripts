@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>go to following url
+Click on 'Jobseeker Login'
+Click on 'Sign Up' link
+Enter 'User Name'
+Click on 'Check User name'
+Enter 'password'
+Enter 'confirm Password'
+Enter 'Email'
+Enter 'Confirm email'
+Select 'Secret Question'
+Enter answer for the secret question
+Enter 'Enter the Code Shown below'
+Click on 'create Account' button
+navigate to welcome page</description>
+   <name>SDB-TC-174</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0c415e5-05b9-4f72-b3ff-228816852a54</testCaseGuid>
+</TestCaseEntity>

@@ -18,7 +18,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://localhost:8080/index.jsp')
+WebUI.navigateToUrl('http://123.231.114.194:8285/index.jsp')
 
 WebUI.click(findTestObject('Object Repository/a_Partners'))
 

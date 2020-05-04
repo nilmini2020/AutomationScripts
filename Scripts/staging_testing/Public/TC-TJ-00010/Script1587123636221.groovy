@@ -18,9 +18,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://100.100.100.199/index.jsp')
+WebUI.navigateToUrl('http://123.231.114.194:8285/index.jsp')
 
 WebUI.click(findTestObject('img (3)', [('img_rss_hdrbar') : true]))
 
-WebUI.navigateToUrl('http://100.100.100.199/cafe/cafe.jsp')
+WebUI.navigateToUrl('http://123.231.114.194:8285/cafe/cafe.jsp')
 

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify visit out twitter page</description>
+   <name>TC-TJ-00014</name>
+   <tag>tj14</tag>
+   <comment></comment>
+   <testCaseGuid>4260953a-8cf8-4e29-b8e0-b1874b6053b8</testCaseGuid>
+</TestCaseEntity>
