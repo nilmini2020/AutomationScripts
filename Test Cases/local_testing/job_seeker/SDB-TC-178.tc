@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Job Seeker - Verify Login with incorrect user name and password</description>
+   <name>SDB-TC-178</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>721d02ad-2977-4afa-a899-b75bcff180d1</testCaseGuid>
+</TestCaseEntity>

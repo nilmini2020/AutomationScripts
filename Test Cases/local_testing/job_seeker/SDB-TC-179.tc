@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Job Seeker : Verify Forget Password</description>
+   <name>SDB-TC-179</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89f5d7d2-fd7c-458a-bc9e-f4e8cabd748f</testCaseGuid>
+</TestCaseEntity>

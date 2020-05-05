@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Job Seeker - Verify Check for HTML profile</description>
+   <name>SDB-TC-176</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb20945a-6ab1-4d67-a736-0b19e125cd05</testCaseGuid>
+</TestCaseEntity>

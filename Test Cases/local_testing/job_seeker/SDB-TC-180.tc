@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Browse for topjobsClick on 'Job seeker login'Enter usernameEnter passwordClick on 'Loign'Click on 'My Profiles' linkbrowse for a fetured employer profilethen click 'welcome'Click on 'Click here to go back to your previously visited Featured employer name</description>
+   <name>SDB-TC-180</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca8b882b-f73e-4f52-9020-009b5f144d48</testCaseGuid>
+</TestCaseEntity>
