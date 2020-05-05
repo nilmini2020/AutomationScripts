@@ -32,3 +32,5 @@ WebUI.delay(2)
 WebUI.click(findTestObject('VacancyAdview/btnApplyViaEmail'))
 WebUI.delay(2)
 WebUI.verifyElementVisible(findTestObject('VacancyAdview/pnlSuggestionPanel'))
+
+//test
