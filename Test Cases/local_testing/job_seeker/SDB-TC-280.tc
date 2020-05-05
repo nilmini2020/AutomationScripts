@@ -2,22 +2,28 @@
 <TestCaseEntity>
    <description>When a job seeker click on apply now feature in a particular vacancy automatically redirect to login page. In that moment need to be verified validation exist to check if the user proceed ahead by entering valid user name and password. 
 
-Need to be test by entering
+Need to be test by entering
+
 
 
 invalid user name only or
 
-
-valid user name only or
 
 
-invalid password only or
+valid user name only or
 
 
-valid password only or
+
+invalid password only or
 
 
-both invalid user name and invalid password  
+
+valid password only or
+
+
+
+both invalid user name and invalid password  
+
 
 
 to check validation exist to prevent user entering to the site.</description>

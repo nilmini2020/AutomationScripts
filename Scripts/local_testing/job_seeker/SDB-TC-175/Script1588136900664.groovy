@@ -55,7 +55,7 @@ WebUI.delay(4)
 
 
 
-String lname='Herath'
+String lname='herath'
 String oname='dilshan'
 String initial='H.M'
 String Add1='Rajagiriya'
@@ -85,6 +85,7 @@ String organization='genesiis'
 String designation='QA Engineer'
 WebUI.selectOptionByIndex(findTestObject('Object Repository/ApplicantCommonProfile/ddlSelectIndustry'),2)
 WebUI.sendKeys(findTestObject('Object Repository/ApplicantCommonProfile/txtOrganisation'),organization)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/ApplicantCommonProfile/ddlJobCategory'),2)
 WebUI.sendKeys(findTestObject('Object Repository/ApplicantCommonProfile/txtDesignation'),designation)
 WebUI.click(findTestObject('Object Repository/ApplicantCommonProfile/btnAddToListProfessionlExperience'))
 WebUI.delay(2)
@@ -95,7 +96,7 @@ WebUI.delay(2)
 
 String HighEduDesc="test higher EDU Description"
 WebUI.selectOptionByIndex(findTestObject('Object Repository/ApplicantCommonProfile/ddlSelectAward'),2)
-WebUI.selectOptionByIndex(findTestObject('Object Repository/ApplicantCommonProfile/ddlSelectTitle'),2)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/ApplicantCommonProfile/ddlHigherQualification'),2)
 WebUI.selectOptionByIndex(findTestObject('Object Repository/ApplicantCommonProfile/ddlAreaStudy'),2)
 WebUI.sendKeys(findTestObject('Object Repository/ApplicantCommonProfile/txtQualiDescription'),HighEduDesc)
 WebUI.click(findTestObject('Object Repository/ApplicantCommonProfile/btnAddQualification'))
@@ -124,7 +125,7 @@ WebUI.delay(2)
 
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/ApplicantCommonProfile/ddlSelectMembership'),2)
-WebUI.scrollToElement(findTestObject('Object Repository/ApplicantCommonProfile/ddlSelectCountry'))
+WebUI.scrollToElement(findTestObject('Object Repository/ApplicantCommonProfile/ddlMemberCountry'),3)
 WebUI.selectOptionByValue(findTestObject('Object Repository/ApplicantCommonProfile/ddlMemberCountry'),'LK',false)
 WebUI.click(findTestObject('Object Repository/ApplicantCommonProfile/btnMemberAdd'))
 WebUI.delay(2)
@@ -145,7 +146,7 @@ WebUI.delay(2)
 String researchdesc='text for research desc'
 WebUI.selectOptionByIndex(findTestObject('Object Repository/ApplicantCommonProfile/ddlResearchArea'),2)
 WebUI.sendKeys(findTestObject('Object Repository/ApplicantCommonProfile/txtResearchDescription'),researchdesc)
-WebUI.scrollToElement(findTestObject('Object Repository/ApplicantCommonProfile/btnAddToListResearch'))
+WebUI.scrollToElement(findTestObject('Object Repository/ApplicantCommonProfile/btnAddToListResearch'),3)
 WebUI.click(findTestObject('Object Repository/ApplicantCommonProfile/btnAddToListResearch'))
 WebUI.delay(2)
 WebUI.click(findTestObject('Object Repository/ApplicantCommonProfile/btnNextResearch'))
@@ -155,7 +156,7 @@ WebUI.delay(2)
 
 
 
-WebUI.scrollToElement(findTestObject('Object Repository/ApplicantCommonProfile/btnNextAchievment'))
+WebUI.scrollToElement(findTestObject('Object Repository/ApplicantCommonProfile/btnNextAchievment'),3)
 WebUI.click(findTestObject('Object Repository/ApplicantCommonProfile/btnNextAchievment'))
 WebUI.delay(2)
 
@@ -167,7 +168,7 @@ String rname='Channa'
 String relation='Friend'
 String refdesignation='QA lead'
 String phone='0715738301'
-WebUI.scrollToElement(findTestObject('Object Repository/ApplicantCommonProfile/txtRefName'))
+WebUI.scrollToElement(findTestObject('Object Repository/ApplicantCommonProfile/txtRefName'),3)
 WebUI.sendKeys(findTestObject('Object Repository/ApplicantCommonProfile/txtRefName'),rname)
 WebUI.sendKeys(findTestObject('Object Repository/ApplicantCommonProfile/txtRelationship'),relation)
 WebUI.sendKeys(findTestObject('Object Repository/ApplicantCommonProfile/txtRefDesignation'),refdesignation)
@@ -186,7 +187,7 @@ WebUI.delay(2)
 String famname='Somasiri'
 String famrelation='Father'
 String famdesignation='Manager'
-WebUI.scrollToElement(findTestObject('Object Repository/ApplicantCommonProfile/txtFamilyName'))
+WebUI.scrollToElement(findTestObject('Object Repository/ApplicantCommonProfile/txtFamilyName'),3)
 WebUI.sendKeys(findTestObject('Object Repository/ApplicantCommonProfile/txtFamilyName'),famname)
 WebUI.sendKeys(findTestObject('Object Repository/ApplicantCommonProfile/txtFamilyRelationship'),famrelation)
 WebUI.sendKeys(findTestObject('Object Repository/ApplicantCommonProfile/txtFamilyDesignation'),famdesignation)
@@ -202,7 +203,7 @@ WebUI.delay(2)
 
 
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/ApplicantCommonProfile/ddlJobCategory'),2)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/ApplicantCommonProfile/ddlPreferenceJobCategory'),2)
 WebUI.click(findTestObject('Object Repository/ApplicantCommonProfile/btnAddToListJobPref'))
 WebUI.delay(2)
 WebUI.click(findTestObject('Object Repository/ApplicantCommonProfile/btnNextJobPref'))
@@ -212,18 +213,33 @@ WebUI.delay(2)
 
 
 
+
+WebUI.scrollToElement(findTestObject('Object Repository/ApplicantCommonProfile/chkSelectSrilnka'),3)
+WebUI.click(findTestObject('Object Repository/ApplicantCommonProfile/chkSelectSrilnka'))
+WebUI.check(findTestObject('Object Repository/ApplicantCommonProfile/chkSelectSrilnka'))
+WebUI.scrollToElement(findTestObject('Object Repository/ApplicantCommonProfile/btnAddToListPreferred'),3)
+WebUI.delay(2)
+WebUI.click(findTestObject('Object Repository/ApplicantCommonProfile/btnNextPreference'))
+WebUI.delay(2)
+
+
+
 //WebUI.click()
 //WebUI.sendKeys(,oname)
 //WebUI.selectOptionByIndex(,2)
 //WebUI.scrollToElement()
 
 
+WebUI.click(findTestObject('Object Repository/ApplicantCommonProfile/btnUploadCV'))
+WebUI.delay(1)
+WebUI.switchToWindowTitle('Upload Your Documents')
+WebUI.selectOptionByIndex(findTestObject('Object Repository/PopUploadDocuments/ddlDocumentType'),1)
+WebUI.uploadFile(findTestObject('Object Repository/VacancyAdview/fulUploadCV'), 'C:\\\\Users\\\\User\\\\Downloads\\\\1.pdf')
+WebUI.click(findTestObject('Object Repository/PopUploadDocuments/btnUpload'))
+WebUI.delay(1)
+WebUI.switchToWindowTitle('Applicant Details')
 
-WebUI.scrollToElement(findTestObject('Object Repository/ApplicantCommonProfile/chkSelectSrilnka'))
-WebUI.check(findTestObject('Object Repository/ApplicantCommonProfile/chkSelectSrilnka'))
-WebUI.scrollToElement(findTestObject('Object Repository/ApplicantCommonProfile/btnAddToListPreferred'))
-WebUI.delay(2)
-WebUI.click(findTestObject('Object Repository/ApplicantCommonProfile/btnNextPreference'))
-WebUI.delay(2)
+WebUI.click(findTestObject('Object Repository/ApplicantCommonProfile/btnSaveAll'))
+
 
 

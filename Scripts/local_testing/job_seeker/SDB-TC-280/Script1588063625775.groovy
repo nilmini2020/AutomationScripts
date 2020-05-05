@@ -21,6 +21,7 @@ String invalidPwd='erererer'
 String validPwd='#compaq123'
 
 
+//login only by enter invalid username 
 WebUI.openBrowser('')
 WebUI.maximizeWindow()
 WebUI.navigateToUrl('http://localhost:8080/index.jsp')
@@ -48,7 +49,7 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/ApplicantLogin/lblE
 WebUI.closeBrowser()
 
 
-
+//login only by enter valid username
 WebUI.openBrowser('')
 WebUI.maximizeWindow()
 WebUI.navigateToUrl('http://localhost:8080/index.jsp')
@@ -78,7 +79,7 @@ WebUI.closeBrowser()
 
 
 
-
+//login only by enter invalid Password
 WebUI.openBrowser('')
 WebUI.maximizeWindow()
 WebUI.navigateToUrl('http://localhost:8080/index.jsp')
@@ -106,7 +107,7 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/ApplicantLogin/lblE
 WebUI.closeBrowser()
 
 
-
+//login only by enter valid Password
 WebUI.openBrowser('')
 WebUI.maximizeWindow()
 WebUI.navigateToUrl('http://localhost:8080/index.jsp')
@@ -135,7 +136,7 @@ WebUI.closeBrowser()
 
 
 
-
+//login only by enter invalid Username and Password
 WebUI.openBrowser('')
 WebUI.maximizeWindow()
 WebUI.navigateToUrl('http://localhost:8080/index.jsp')
@@ -163,7 +164,7 @@ WebUI.closeBrowser()
 
 
 
-
+//login only by enter valid Username and Password 
 
 WebUI.openBrowser('')
 WebUI.maximizeWindow()
