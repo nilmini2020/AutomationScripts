@@ -87,5 +87,5 @@ else{
 	urlresult='fail'
 }
 
-
+WebUI.verifyMatch(urlresult, 'pass', false)
 //check git update

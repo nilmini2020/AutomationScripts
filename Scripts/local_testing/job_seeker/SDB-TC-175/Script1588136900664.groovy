@@ -15,7 +15,8 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
-String username='dilshan1744'
+//String username='dilshan1744'
+String username='dilshan991'
 String password='#compaq123'
 
 WebUI.openBrowser('')
@@ -234,7 +235,8 @@ WebUI.click(findTestObject('Object Repository/ApplicantCommonProfile/btnUploadCV
 WebUI.delay(1)
 WebUI.switchToWindowTitle('Upload Your Documents')
 WebUI.selectOptionByIndex(findTestObject('Object Repository/PopUploadDocuments/ddlDocumentType'),1)
-WebUI.uploadFile(findTestObject('Object Repository/VacancyAdview/fulUploadCV'), 'C:\\\\Users\\\\User\\\\Downloads\\\\1.pdf')
+WebUI.uploadFile(findTestObject('Object Repository/VacancyAdview/fulUploadCV'), 'C:\\\\Users\\\\User\\\\Downloads\\\\Soil-1585.pdf')
+//WebUI.uploadFile(findTestObject('Object Repository/VacancyAdview/fulUploadCV'), 'C:\\\\Users\\\\User\\\\Downloads\\\\1.pdf')
 WebUI.click(findTestObject('Object Repository/PopUploadDocuments/btnUpload'))
 WebUI.delay(1)
 WebUI.switchToWindowTitle('Applicant Details')
