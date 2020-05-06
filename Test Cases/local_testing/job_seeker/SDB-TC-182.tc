@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Load the site >>Logged as Job Seeker - Then it is going to open welcome page >> And go to the list view and select the vacancy >>then it is going to open adview..After that click on flagged button ...And go to the Myjobs and got to the flagged vacancy section</description>
+   <name>SDB-TC-182</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5088016a-8aa3-40f4-8a25-3806ec769009</testCaseGuid>
+</TestCaseEntity>

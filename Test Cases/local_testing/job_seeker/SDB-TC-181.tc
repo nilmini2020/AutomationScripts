@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>MyJobs page should be opened with including Flagged Vacancies,*Preferred Companies*  and My Applications</description>
+   <name>SDB-TC-181</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6053c71-4183-4c49-b887-85d230b3afa3</testCaseGuid>
+</TestCaseEntity>

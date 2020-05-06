@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Browse for topjobsClick on 'Job seeker login'Enter usernameEnter passwordClick on 'Loign'Click on 'My Preferences' linkSelect 4 job categoriesEnter 'email' addressClick on 'Save'</description>
+   <name>SDB-TC-185</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25ca6352-3575-48d7-b8f6-6980dc016da4</testCaseGuid>
+</TestCaseEntity>
