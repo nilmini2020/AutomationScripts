@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Verify created jobs -733931</description>
-   <name>TC-TP-0002</name>
-   <tag>tp2</tag>
-   <comment></comment>
-   <testCaseGuid>a046256e-67f3-4bfe-899a-a1d4d360189c</testCaseGuid>
-</TestCaseEntity>

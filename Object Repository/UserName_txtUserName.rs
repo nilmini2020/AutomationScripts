@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_User Name_txtUserName</name>
+   <name>UserName_txtUserName</name>
    <tag></tag>
    <elementGuidId>d22cbf5b-24ae-430e-82b8-32600714a1fe</elementGuidId>
    <selectorCollection>

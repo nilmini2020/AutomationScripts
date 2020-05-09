@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
-   <name>TC-TP-0001</name>
+   <description>add new vacancy</description>
+   <name>SDB-TC-268</name>
    <tag></tag>
    <comment>Then inserted successfully
 Then updated successfully</comment>

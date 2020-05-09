@@ -20,7 +20,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:8080/employer/agentlogin.jsp')
 
-WebUI.setText(findTestObject('Object Repository/input_User Name_txtUserName'), 'advertise')
+WebUI.setText(findTestObject('UserName_txtUserName'), 'advertise')
 
 WebUI.click(findTestObject('Object Repository/input_Password_txtDetectCaps'))
 
