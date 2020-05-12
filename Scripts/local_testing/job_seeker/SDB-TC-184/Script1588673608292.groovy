@@ -93,4 +93,15 @@ WebUI.verifyMatch(urlresult, 'pass', false)
 WebUI.click(findTestObject('Object Repository/ApplicantMyJobs/lnkAddCompaniesList'))
 WebUI.switchToWindowTitle('Preferred Companies')
 
+<<<<<<< HEAD
+WebUI.click(findTestObject('Object Repository/PreferredCompaniesPage/spnIndustryCategory'))
+WebUI.check(findTestObject('Object Repository/PreferredCompaniesPage/chkCompany'))
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Object Repository/PreferredCompaniesPage/btnSaveClose'))
+
+
+=======
+>>>>>>> branch 'sdb_testcases' of https://github.com/nilmini2020/AutomationScripts.git
 
