@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Browse for topjobsClick on 'functional area' linkClick on a vacancy link
+Functional area should displayVacancy can be viewed</description>
+   <name>SDB-TC-190</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a748832c-579f-467d-92cc-330b51447490</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Browse for topjobsClick on 'Recent 100 jobs' linkClick on a vacancy link
+Vacancy can be viewed</description>
+   <name>SDB-TC-189</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bbad8791-7369-4e31-add3-c0f17ea1f7e9</testCaseGuid>
+</TestCaseEntity>

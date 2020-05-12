@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Browse for topjobs>>Click on a vacancy in hot job area
+
+Vacancy can be viewed</description>
+   <name>SDB-TC-188</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eecdfbce-c075-4353-a19c-ccea85322a0b</testCaseGuid>
+</TestCaseEntity>

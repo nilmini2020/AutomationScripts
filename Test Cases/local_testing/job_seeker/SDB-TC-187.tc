@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Browse for topjobsClick on 'Job seeker login'Enter usernameEnter passwordClick on 'Loign'Click on 'My login details' tabUpdate detailsClick on 'Save'
+Updated successfully message should display</description>
+   <name>SDB-TC-187</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>602b2c45-f1a4-4f0e-a885-12a733edfb3e</testCaseGuid>
+</TestCaseEntity>
